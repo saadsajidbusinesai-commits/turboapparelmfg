@@ -194,6 +194,7 @@ section{padding:96px 0;}
 .process-step .ptext h3{font-size:1.4rem;margin-bottom:12px;}
 .process-step .ptext p{color:var(--text-muted);max-width:480px;}
 .process-step .pimg img{border-radius:var(--radius);}
+.proc-vid{width:100%;border-radius:var(--radius);display:block;background:#000;}
 .process-step.reverse{grid-template-columns:1.5fr .5fr;}
 .process-step.reverse .pnum{order:2;text-align:right;}
 .process-media{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;}
